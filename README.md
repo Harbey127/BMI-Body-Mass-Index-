@@ -1,16 +1,8 @@
-# bmi
+# BMI (Body Mass Index)
 
 A new Flutter project.
 
-## Getting Started
+The application calculates the body mass by estimating the mass of the human body by taking into account the weight and height.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://user-images.githubusercontent.com/94745074/155034219-a598cee0-2d31-4a2a-ba55-25655ea8a207.jpg)
+![1](https://user-images.githubusercontent.com/94745074/155034220-9821ddac-7c4e-4fee-9548-4a1ada3a7c9d.jpg)
